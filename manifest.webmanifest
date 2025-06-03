@@ -1,0 +1,15 @@
+{
+    "name": "Mingeon's PortfolioWebsite",
+    "short_name": "Mingeon's PortfolioWebsite",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#000000",
+    "theme_color": "#000",
+    "description": "Made by Mingeon Kim",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
